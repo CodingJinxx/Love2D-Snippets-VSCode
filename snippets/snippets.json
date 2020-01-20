@@ -1,0 +1,97 @@
+{
+	"Love Audio" : {
+		"prefix" : "la",
+		"body" : "love.audio.",
+		"description" : "Love Audio"
+	},
+	"Love Data" : {
+		"prefix" : "ld",
+		"body" : "love.data.",
+		"description" : "Love Data"
+	},
+	"Love Event" : {
+		"prefix" : "le",
+		"body" : "love.event.",
+		"description" : "Love Event"
+	},
+	"Love Filesystem" : {
+		"prefix" : "lfs",
+		"body" : "love.filesystem.",
+		"description" : "Love Filesystem"
+	},
+	"Love Font" : {
+		"prefix" : "lf",
+		"body" : "love.font.",
+		"description" : "Love Font"
+	},
+	"Love Graphics" : {
+		"prefix" : "lg",
+		"body" : "love.graphics.",
+		"description" : "Love Graphics"
+	},
+	"Love Image" :{
+		"prefix" : "li",
+		"body" : "love.image.",
+		"description" : "Love Image"
+	},
+	"Love Joystick" : {
+		"prefix" : "lj",
+		"body" : "love.joystick.",
+		"description" : "Love Joystick"
+	},
+	"Love Keyboard" : {
+		"prefix" : "lk",
+		"body" : "love.keyboard.",
+		"description" : "Love Keyboard"
+	},
+	"Love Math" : {
+		"prefix" : "lm",
+		"body" : "love.math.",
+		"description" : "Love Math"
+	},
+	"Love Mouse" : {
+		"prefix" : "lms",
+		"body" : "love.mouse.",
+		"description" : "Love Mouse"
+	},
+	"Love Physics" : {
+		"prefix" : "lp",
+		"body" : "love.physics.",
+		"description" : "Love Physics"
+	},
+	"Love Sound" : {
+		"prefix" : "ls",
+		"body" : "love.sound.",
+		"description" :"Love Sound"
+	},
+	"Love System" : {
+        "prefix" : "lsys",
+        "body" : "love.system.",
+        "description" : "Love System"
+    },
+    "Love Thread" : {
+        "prefix" : "lth",
+        "body" : "love.thread.",
+        "description" : "Love Thread"
+    },
+    "Love Timer" : {
+        "prefix" : "lt",
+        "body" : "love.timer.",
+        "description" : "Love Timer"
+    },
+    "Love Touch" : {
+        "prefix" : "ltch",
+        "body" : "love.touch.",
+        "description" : "Love Touch"
+    },
+    "Love Video" : {
+        "prefix" : "lv",
+        "body" : "love.video.",
+        "description" : "Love Video"
+    },
+    "Love Window" : {
+        "prefix" : "lw",
+        "body" : "love.window.",
+        "description" : "Love Window"
+    }
+}
